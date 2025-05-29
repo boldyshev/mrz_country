@@ -42,7 +42,7 @@ python3 predict.py --image_dir <DATASET>/HUN --out_path <OUT_PATH>.json
 
 Validate the pipepline on the whole dataset. Outputs JSON file
 ```
-python3 predict.py --out_path <OUT_PATH>.json
+python3 validate.py --out_path <OUT_PATH>.json
 ```
 
 

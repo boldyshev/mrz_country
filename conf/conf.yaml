@@ -4,7 +4,7 @@ defaults:
   - recognizer: docsaidlab
 
 # some basic parameters here
-data_path: /home/boris/mrz_country/dataset
+data_path: /home/boris/syn/dataspark/dataset
 results_path: results
 postprocess: True
 
