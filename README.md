@@ -66,7 +66,7 @@ python3 predict.py --out_path <OUT_PATH>.json
 ## Challenges: 
 * Errors persist with certain country codes (e.g., Hungarian 'HUN') due to character misrecognition.
 * The pipeline relies on a predefined list of country codes, which may require updates for broader applicability.
-* Open-source models and Visual Language Models can accelerate labeling for new datasets.
+* Training PaddleOCR on the labelled text data shall improve accuracy. Labelling can be speed up with Vision Language Models
 * The aspects of deploying in production were not addressed at all in this solution. 
 
 
