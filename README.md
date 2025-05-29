@@ -8,7 +8,7 @@ This project implements a machine learning pipeline to identify the country of o
 
 ### Quick Start
 ```bash
-git clone https://github.com/boldyshev/mrz_country
+git clone git@github.com:boldyshev/mrz_country.git
 cd mrz_country
 python3.10 -m venv .venv
 source .venv/bin/activate
