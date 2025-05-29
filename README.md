@@ -16,6 +16,24 @@ pip install -r requirements.txt
 mkdir weights
 gdown 1iJgdk4Ry7Gm4Rjem3_qaifnDlFFpmr3H -O weights/yolox-s.pth
 ```
+Specify the path to the dataset folder in the [conf/conf.yaml](conf/conf.yaml):
+```yaml
+defaults:
+  - _self_
+  - detector: yolox
+  - recognizer: docsaidlab
+
+# some basic parameters here
+data_path: /path/to/dataset
+results_path: results
+postprocess: True
+
+# disable hydra ouput
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+```
 
 Predict countries for all images in the given directory. Outputs JSON with `image_path: country_code`
 ```
