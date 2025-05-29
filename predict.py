@@ -19,7 +19,7 @@ def main():
     with initialize_config_dir(version_base=None, config_dir=str(CFG_PATH)):
         cfg = compose(config_name='conf.yaml')
 
-    data_path = cfg.data_path
+    data_path = Path(cfg.data_path)
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-d', '--image_dir', required=True, type=str,  help='Path to the directory with input images')

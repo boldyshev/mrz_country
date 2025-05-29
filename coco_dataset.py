@@ -118,7 +118,7 @@ def main():
         cfg_docsaid = compose(config_name='conf.yaml', overrides=[f'detector=docsaidlab'])
         cfg_passporteye = compose(config_name='conf.yaml', overrides=[f'detector=passporteye'])
 
-    data_path = cfg.data_path
+    data_path = Path(cfg.data_path)
     results_path = ROOT_PATH / cfg.results_path
 
     # Load validation results
