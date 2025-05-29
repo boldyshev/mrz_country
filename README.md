@@ -2,7 +2,7 @@
 
 This project implements a machine learning pipeline to identify the country of origin from synthetic passport images. It employs a two-stage approach: (1) detecting the Machine Readable Zone (MRZ) using a fine-tuned YOLOX-S model, and (2) recognizing text within the MRZ using a pre-trained OCR model to determine the country code.
 
-* No mistakes on the dataset after using Hamming distance postrocessing
+* No mistakes on the dataset after using Hamming distance postprocessing
 * Average 0.45 sec inference time on 12/24 core CPU and 3090 GPU
 
 
@@ -35,7 +35,7 @@ python3 predict.py --out_path <OUT_PATH>.json
 - **Rationale**: Direct image classification was avoided as it wouldn't localize the MRZ, which is critical for country code extraction.
 
 ### Text Recognition
-- **Model**: The pre-trained MRZScanner from DocsaidLab was selected after comparing it with PassportEye and PaddleOCR.
+- **Model**: The pre-trained MRZScanner from [DocsaidLab](https://github.com/DocsaidLab/MRZScanner) was selected after comparing it with [PassportEye](https://passporteye.readthedocs.io/en/latest/python_usage.html) and PaddleOCR.
 - **Comparison**: DocsaidLab outperformed PaddleOCR, which struggled with '<' characters, and provided better accuracy than PassportEye on the dataset.
 
 ### Post-processing
@@ -60,15 +60,13 @@ python3 predict.py --out_path <OUT_PATH>.json
 - **Example**: If the OCR outputs 'HHN', the pipeline compares it to all codes, identifies 'HUN' (Hungary) as the closest match (distance of 1), and selects it as the result.
 
 
-## Results and Evaluation
-It is hardly correct to use a validation dataset as the recognition model was not trained. 
-- **Strengths**: High MRZ detection accuracy (~90 mAP) and effective country code correction.
-- **Challenges**: Errors persist with certain country codes (e.g., Hungarian 'HUN') due to character misrecognition.
-
+## Evaluation
+* It is hardly correct to use a validation dataset as the recognition model was not trained. 
 
 ## Challenges: 
-Errors persist with certain country codes (e.g., Hungarian 'HUN') due to character misrecognition.
-The pipeline relies on a predefined list of country codes, which may require updates for broader applicability.
-The aspects of deploying in production were not addressed at all in this solution. 
+* Errors persist with certain country codes (e.g., Hungarian 'HUN') due to character misrecognition.
+* The pipeline relies on a predefined list of country codes, which may require updates for broader applicability.
+* Open-source models and Visual Language Models can accelerate labeling for new datasets.
+* The aspects of deploying in production were not addressed at all in this solution. 
 
 
