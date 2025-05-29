@@ -28,7 +28,7 @@ def main():
 
     country_codes = [c.name if c.name != 'DEU' else 'D<<' for c in data_path.iterdir() if c.is_dir()]
     pipeline = YOLOXDocsaidLabPipeline(cfg, country_codes, postprocess=cfg.postprocess)
-    image_paths = sorted([p for p in Path(args.image_dir).iterdir() if p.is_file()])
+    image_paths = sorted([str(p) for p in Path(args.image_dir).iterdir() if p.is_file()])
 
     results = {}
     for image_path in tqdm(image_paths, desc=f'{args.image_dir.split("/")[-1]}', unit='image'):
