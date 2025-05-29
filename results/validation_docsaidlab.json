@@ -1,0 +1,282 @@
+{
+    "BEL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "BGR": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "BLR": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "CAN": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "CHL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "DEU": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.41,
+        "incorrect_mages": []
+    },
+    "DOM": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.41,
+        "incorrect_mages": []
+    },
+    "ESP": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.42,
+        "incorrect_mages": []
+    },
+    "EST": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.4,
+        "incorrect_mages": []
+    },
+    "GBR": {
+        "correct": 1,
+        "incorrect": 99,
+        "accuracy": 0.01,
+        "avg_time_per_image": 0.4,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_0.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_1.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_10.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_11.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_12.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_13.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_14.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_15.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_16.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_17.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_18.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_19.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_2.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_20.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_21.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_22.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_23.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_24.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_25.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_26.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_27.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_28.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_29.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_3.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_30.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_31.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_32.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_33.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_34.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_35.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_36.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_37.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_38.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_39.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_4.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_40.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_41.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_43.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_44.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_45.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_46.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_47.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_48.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_49.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_5.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_50.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_51.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_52.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_53.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_54.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_55.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_56.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_57.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_58.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_59.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_6.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_60.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_61.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_62.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_63.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_64.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_65.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_66.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_67.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_68.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_69.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_7.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_70.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_71.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_72.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_73.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_74.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_75.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_76.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_77.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_78.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_79.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_8.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_80.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_81.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_82.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_83.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_84.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_85.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_86.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_87.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_88.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_89.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_9.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_90.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_91.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_92.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_93.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_94.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_95.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_96.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_97.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_98.jpg",
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_99.jpg"
+        ]
+    },
+    "HUN": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "IDN": {
+        "correct": 96,
+        "incorrect": 4,
+        "accuracy": 0.96,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_11.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_30.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_54.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_72.jpg"
+        ]
+    },
+    "IRL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "ITA": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "KAZ": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "KGZ": {
+        "correct": 94,
+        "incorrect": 6,
+        "accuracy": 0.94,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_13.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_18.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_59.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_82.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_95.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_98.jpg"
+        ]
+    },
+    "MDA": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "MEX": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "NLD": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "POL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "SVK": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "SWE": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "USA": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    },
+    "UZB": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.39,
+        "incorrect_mages": []
+    }
+}

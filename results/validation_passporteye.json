@@ -1,0 +1,386 @@
+{
+    "BEL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.63,
+        "incorrect_mages": []
+    },
+    "BGR": {
+        "correct": 96,
+        "incorrect": 4,
+        "accuracy": 0.96,
+        "avg_time_per_image": 0.71,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/BGR/BGR_41.jpg",
+            "/home/boris/syn/dataspark/dataset/BGR/BGR_60.jpg",
+            "/home/boris/syn/dataspark/dataset/BGR/BGR_7.jpg",
+            "/home/boris/syn/dataspark/dataset/BGR/BGR_73.jpg"
+        ]
+    },
+    "BLR": {
+        "correct": 99,
+        "incorrect": 1,
+        "accuracy": 0.99,
+        "avg_time_per_image": 0.65,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/BLR/BLR_51.jpg"
+        ]
+    },
+    "CAN": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.57,
+        "incorrect_mages": []
+    },
+    "CHL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.77,
+        "incorrect_mages": []
+    },
+    "DEU": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.57,
+        "incorrect_mages": []
+    },
+    "DOM": {
+        "correct": 94,
+        "incorrect": 6,
+        "accuracy": 0.94,
+        "avg_time_per_image": 0.59,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_3.jpg",
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_43.jpg",
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_53.jpg",
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_6.jpg",
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_63.jpg",
+            "/home/boris/syn/dataspark/dataset/DOM/DOM_74.jpg"
+        ]
+    },
+    "ESP": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.65,
+        "incorrect_mages": []
+    },
+    "EST": {
+        "correct": 99,
+        "incorrect": 1,
+        "accuracy": 0.99,
+        "avg_time_per_image": 0.62,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/EST/EST_58.jpg"
+        ]
+    },
+    "GBR": {
+        "correct": 99,
+        "incorrect": 1,
+        "accuracy": 0.99,
+        "avg_time_per_image": 0.69,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/GBR/GBR_99.jpg"
+        ]
+    },
+    "HUN": {
+        "correct": 98,
+        "incorrect": 2,
+        "accuracy": 0.98,
+        "avg_time_per_image": 0.64,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/HUN/HUN_32.jpg",
+            "/home/boris/syn/dataspark/dataset/HUN/HUN_76.jpg"
+        ]
+    },
+    "IDN": {
+        "correct": 94,
+        "incorrect": 6,
+        "accuracy": 0.94,
+        "avg_time_per_image": 0.63,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_21.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_27.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_28.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_87.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_95.jpg",
+            "/home/boris/syn/dataspark/dataset/IDN/IDN_96.jpg"
+        ]
+    },
+    "IRL": {
+        "correct": 93,
+        "incorrect": 7,
+        "accuracy": 0.93,
+        "avg_time_per_image": 0.81,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_14.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_32.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_4.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_5.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_56.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_68.jpg",
+            "/home/boris/syn/dataspark/dataset/IRL/IRL_72.jpg"
+        ]
+    },
+    "ITA": {
+        "correct": 87,
+        "incorrect": 13,
+        "accuracy": 0.87,
+        "avg_time_per_image": 0.74,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_0.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_1.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_2.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_21.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_38.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_56.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_58.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_60.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_67.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_78.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_81.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_90.jpg",
+            "/home/boris/syn/dataspark/dataset/ITA/ITA_91.jpg"
+        ]
+    },
+    "KAZ": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.8,
+        "incorrect_mages": []
+    },
+    "KGZ": {
+        "correct": 90,
+        "incorrect": 10,
+        "accuracy": 0.9,
+        "avg_time_per_image": 1.04,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_17.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_32.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_46.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_48.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_49.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_51.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_65.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_72.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_81.jpg",
+            "/home/boris/syn/dataspark/dataset/KGZ/KGZ_91.jpg"
+        ]
+    },
+    "MDA": {
+        "correct": 98,
+        "incorrect": 2,
+        "accuracy": 0.98,
+        "avg_time_per_image": 1.0,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/MDA/MDA_50.jpg",
+            "/home/boris/syn/dataspark/dataset/MDA/MDA_77.jpg"
+        ]
+    },
+    "MEX": {
+        "correct": 95,
+        "incorrect": 5,
+        "accuracy": 0.95,
+        "avg_time_per_image": 0.64,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/MEX/MEX_21.jpg",
+            "/home/boris/syn/dataspark/dataset/MEX/MEX_25.jpg",
+            "/home/boris/syn/dataspark/dataset/MEX/MEX_4.jpg",
+            "/home/boris/syn/dataspark/dataset/MEX/MEX_67.jpg",
+            "/home/boris/syn/dataspark/dataset/MEX/MEX_91.jpg"
+        ]
+    },
+    "NLD": {
+        "correct": 91,
+        "incorrect": 9,
+        "accuracy": 0.91,
+        "avg_time_per_image": 1.2,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_1.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_35.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_42.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_52.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_65.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_73.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_75.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_81.jpg",
+            "/home/boris/syn/dataspark/dataset/NLD/NLD_82.jpg"
+        ]
+    },
+    "POL": {
+        "correct": 100,
+        "incorrect": 0,
+        "accuracy": 1.0,
+        "avg_time_per_image": 0.82,
+        "incorrect_mages": []
+    },
+    "SVK": {
+        "correct": 0,
+        "incorrect": 100,
+        "accuracy": 0.0,
+        "avg_time_per_image": 0.16,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_0.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_1.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_10.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_11.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_12.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_13.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_14.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_15.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_16.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_17.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_18.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_19.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_2.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_20.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_21.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_22.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_23.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_24.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_25.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_26.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_27.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_28.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_29.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_3.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_30.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_31.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_32.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_33.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_34.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_35.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_36.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_37.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_38.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_39.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_4.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_40.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_41.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_42.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_43.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_44.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_45.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_46.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_47.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_48.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_49.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_5.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_50.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_51.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_52.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_53.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_54.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_55.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_56.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_57.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_58.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_59.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_6.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_60.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_61.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_62.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_63.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_64.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_65.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_66.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_67.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_68.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_69.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_7.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_70.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_71.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_72.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_73.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_74.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_75.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_76.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_77.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_78.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_79.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_8.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_80.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_81.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_82.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_83.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_84.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_85.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_86.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_87.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_88.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_89.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_9.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_90.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_91.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_92.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_93.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_94.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_95.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_96.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_97.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_98.jpg",
+            "/home/boris/syn/dataspark/dataset/SVK/SVK_99.jpg"
+        ]
+    },
+    "SWE": {
+        "correct": 94,
+        "incorrect": 6,
+        "accuracy": 0.94,
+        "avg_time_per_image": 0.83,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_14.jpg",
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_45.jpg",
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_58.jpg",
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_78.jpg",
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_8.jpg",
+            "/home/boris/syn/dataspark/dataset/SWE/SWE_95.jpg"
+        ]
+    },
+    "USA": {
+        "correct": 82,
+        "incorrect": 18,
+        "accuracy": 0.82,
+        "avg_time_per_image": 0.72,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/USA/USA_16.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_17.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_25.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_28.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_31.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_32.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_39.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_47.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_52.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_54.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_57.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_62.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_67.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_76.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_8.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_89.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_94.jpg",
+            "/home/boris/syn/dataspark/dataset/USA/USA_96.jpg"
+        ]
+    },
+    "UZB": {
+        "correct": 92,
+        "incorrect": 8,
+        "accuracy": 0.92,
+        "avg_time_per_image": 0.82,
+        "incorrect_mages": [
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_1.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_11.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_4.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_47.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_78.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_83.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_93.jpg",
+            "/home/boris/syn/dataspark/dataset/UZB/UZB_94.jpg"
+        ]
+    }
+}

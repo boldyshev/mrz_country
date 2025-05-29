@@ -1,0 +1,8 @@
+# paths relative to root folder
+exp_file: conf/detector/yolox_s_exp.py
+weights_path: weights/yolox-s.pth
+
+device: cuda
+tile_size: 640
+confidence: 0.3
+non_max_suppression: 0.45
